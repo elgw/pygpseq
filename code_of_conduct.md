@@ -1,5 +1,5 @@
 ---
-title: pygpseq Code of Conduct
+title: "pygpseq Code of Conduct"
 ---
 
 # pygpseq Code of Conduct
