@@ -1,3 +1,7 @@
+---
+title: pygpseq Code of Conduct
+---
+
 # pygpseq Code of Conduct
 
 ## Our Pledge
